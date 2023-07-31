@@ -32,4 +32,4 @@ Please exercise caution and perform a thorough evaluation before using any stock
 
 To run the code, make sure you have Python, pandas, numpy, matplotlib, Keras, and scikit-learn installed. Also, place the "AAPL.csv" file in the same directory as the script. Then, execute the script, and the model will be trained and predictions will be made.
 
-Feel free to experiment with the code and customize it as needed for your specific use case. Happy coding!
+### Feel free to experiment with the code and customize it as needed for your specific use case by providing the dataset for the required company's stock prediction. Happy coding!
